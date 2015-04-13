@@ -1,0 +1,8 @@
+Year	titles	row_begin	venue	type	desc
+2015	//tr/td[@class='title']/a	//tr[contains(.,'	)]/td/div[@class='venue']	)]/td[@class='type']	)]/td/div[@class='sched-description']
+2014	//tr/td[@class='title']/a	//tr[contains(.,'	)]/td/div[@class='venue']	)]/td[@class='type']	)]/td/div[@class='sched-description']
+2013	//tr/td[@class='title']/a	//tr[contains(.,'	)]/td/div[@class='venue']	)]/td[@class='type']	)]/td/div[@class='sched-description']
+2012	//tr/td[@class='title']/a	//tr[contains(.,'	)]/td[@class='title']/a/span	)]/td[@class='type']	)]/td/div[@class='sched-description']
+2011	//tr/td[@class='title']/a	//tr[contains(.,'	)]/td/div[@class='venue']	)]/td[@class='type']	)]/td/div[@class='sched-description']
+2010	//tr/td[@class='title']/a	//tr[contains(.,'	)]/td/div[@class='venue']	)]/td[@class='type']	)]/td/div[@class='sched-description']
+2008	//tr/td[@class='title']/a	//tr[contains(.,'	)]/td/div[@class='venue']	)]/td[@class='type']	)]/td/div[@class='sched-description']
