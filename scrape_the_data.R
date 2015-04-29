@@ -15,6 +15,7 @@
 ### More efficient storage???
 ##########################################################
 
+
 ##########################################################
 ### Set up the environment
 ##########################################################
@@ -24,10 +25,6 @@ library(RCurl)
 library(XML)
 trim <- function (x) gsub("^\\s+|\\s+$", "",gsub("\\s+", " ", x)) 
 options(stringsAsFactors = FALSE)
-
-# directory for the project (for home use!)
-# DIR <- "/Users/rebeccawidom/Desktop/sxsw_analysis"
-# setwd(DIR)
 
 ##########################################################
 ### Start with list of schedule page urls for each day
